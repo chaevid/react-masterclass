@@ -3,7 +3,7 @@ import App from './App';
 
 const router = createBrowserRouter([
   {
-    path: '/react-masterclass',
+    path: '/react-masterclass-todo',
     element: <App />,
   },
 ]);
